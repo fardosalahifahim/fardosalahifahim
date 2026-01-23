@@ -19,11 +19,6 @@ Designed to highlight my development skills, creativity, and ability to build fu
 - CSS  
 - JavaScript
 
-## Usage
-
-1. Clone the repository  
-   ```bash
-   
 <!--
 **fardosalahifahim/fardosalahifahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
