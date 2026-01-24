@@ -9,9 +9,6 @@
     <lastmod>2026-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://fardosalahifahim.github.io/fardosalahifahim/about.html</loc>
@@ -174,6 +171,7 @@
   <lastmod>2026-01-24T08:46:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+
 
 
 </urlset>
