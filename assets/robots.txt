@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://fardosalahifahim.github.io/fardosalahifahim/sitemap.xml
+Sitemap: https://f.fardosalahifahim.workers.dev/sitemap-workers.xml
+Sitemap: https://f.fardosalahifahim.workers.dev/image-sitemap-workers.xml
