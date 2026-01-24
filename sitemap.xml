@@ -1,71 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/index.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/about.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/projects.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/skills.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/contact.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/cv.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/youtube.html</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/certs/cert-1.pdf</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/certs/cert-2.pdf</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/certs/cert-3.pdf</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/cv/fahim-cv.pdf</loc>
-  <lastmod>2026-01-24T09:26:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/about.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/workspace-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/project-shot-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/project-shot-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/projects.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/skills.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/contact.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/cv.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/youtube.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/images/fahim.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/certs/cert-1.pdf</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/certs/cert-2.pdf</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/certs/cert-3.pdf</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://fardosalahifahim.github.io/fardosalahifahim/assets/cv/fahim-cv.pdf</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
