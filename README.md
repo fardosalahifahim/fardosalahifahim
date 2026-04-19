@@ -1,4 +1,4 @@
-# FardosAlahiFahim Portfolio Website
+# FardosAlahiFahim  
 
 A personal portfolio showcasing my projects, skills, CV, and YouTube content. Built with **HTML, CSS & JavaScript**, it features a clean, responsive design focused on clarity, usability, and professional presentation of my development work.
 
