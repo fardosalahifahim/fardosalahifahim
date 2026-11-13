@@ -1,35 +1,15 @@
-# FardosAlahiFahim  
+# 💫 About Me:
+👋 **Hi, I'm Fardos Alahi Fahim**, a technology enthusiast and aspiring software developer from Bangladesh, passionate about Computer Science, Cybersecurity, and building innovative digital solutions.<br><br>💻 **Technical Interests:** Software Engineering, Web Development, Cybersecurity, Ethical Hacking, Linux, Computer Hardware, and System Architecture.<br><br>🔭 **Currently Working On:** NMX (NovaMarketX) — exploring and developing technology-driven products and digital platforms.<br><br>👯 **Open to Collaborate On:** Open-source projects, innovative applications, web development, and meaningful technology initiatives.<br><br>🤝 **Looking for Collaboration & Guidance:** Backend Engineering, Scalable System Design, Application Security, and Software Architecture.<br><br>🌱 **Currently Learning:** Python, JavaScript, Linux, Networking, Cybersecurity, and Advanced Software Development.<br><br>💬 **Ask Me About:** Computer Science, Linux, Kali Linux, Hardware, Technology, and my ongoing projects.<br><br>⚡ **My Philosophy:** Learn continuously, think critically, build practically, and create technology that delivers real value.<br><br>🎯 **My Vision:** To build impactful technology products, contribute to open-source innovation, and solve real-world problems through engineering.<br><br>📍 **Location:** Bangladesh | 🌐 **Interests:** Technology · Innovation · Entrepreneurship<br><br>
 
-A personal portfolio showcasing my projects, skills, CV, and YouTube content. Built with **HTML, CSS & JavaScript**, it features a clean, responsive design focused on clarity, usability, and professional presentation of my development work.
 
-## Features
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fardosalahifahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fardosalahifahim) 
 
-- Responsive layout for all devices  
-- Projects and experiments showcase  
-- CV and YouTube integration  
-- Minimal and professional UI  
+# 💻 Tech Stack:
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fardosalahifahim&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fardosalahifahim&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fardosalahifahim&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Purpose
-
-Designed to highlight my development skills, creativity, and ability to build functional, user-friendly web interfaces while maintaining a polished personal brand.
-
-## Tech Stack
-
-- HTML  
-- CSS  
-- JavaScript
-
-<!--
-**fardosalahifahim/fardosalahifahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-    
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
